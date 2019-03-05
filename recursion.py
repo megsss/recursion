@@ -1,20 +1,5 @@
 import unittest
-
-'''
-Write a recursive method that takes 1) a string to find, 2) a string to replace the found string with, and 
-3) an initial string. Return the initial string with all the found strings replaced with the replacement string. 
-You may not use loops or the built-in string methods except comparison, length, and slicing. Here is an outline.
-'''
-
-'''
-Description:
-Author:
-Version:
-Help received from: (people, URLs, etc.)
-Help provided to:
-'''
-
-
+#assignment assigned in CS2050 by Dr.Beaty
 def findandreplace(find, replace, string):
    if string:
        if find == None or find == "":
